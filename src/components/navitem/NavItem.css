@@ -1,0 +1,22 @@
+.NavItem{
+    display: flex;
+    background-color: darkgoldenrod;
+    width: 150px;
+    height: 50px;
+    font-size: 20px;
+    cursor: pointer;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    border: solid darkblue 1px;
+}
+
+.NavItem:hover{
+    font-size: 25px;
+    border: solid darkblue 2px;
+}
+
+.NavItemSelected{
+    background-color: darkblue;
+    color: darkgoldenrod;
+}
