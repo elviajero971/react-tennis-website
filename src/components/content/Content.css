@@ -1,4 +1,4 @@
 .ContentDisplay{
-    min-height: 100%;
     background-color: darkcyan;
+    flex-grow: 1;
 }
